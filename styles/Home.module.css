@@ -1,0 +1,29 @@
+.input {
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+  width: 70%;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+}
+
+.list {
+  margin-top: 1rem;
+}
+
+.container {
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: sans-serif;
+  background-color: #f9f9f9;
+}
+
+.main {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
