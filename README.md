@@ -1,3 +1,9 @@
+# 📝 Simple ToDo List App
+
+A minimalist ToDo List application built with **Next.js** using the **Pages Router**. Users can enter tasks into a text box and see them rendered as an ordered list below. This project is designed for clarity, modularity, and scalability — perfect for learning, teaching, or extending.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +40,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+## 🚀 Features
+
+- ✅ Add tasks via input field
+- ✅ Display tasks in an ordered list
+- ✅ Modular component structure
+- ✅ Styled with CSS Modules
+- ✅ Built with Next.js Pages Router
+
+---
+
+## 🧱 Folder Structure
+
+<img width="657" height="332" alt="image" src="https://github.com/user-attachments/assets/3d1abc85-c52a-4c3b-8f63-b9eb1b36b435" />
+
+
